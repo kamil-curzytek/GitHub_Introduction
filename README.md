@@ -20,3 +20,5 @@ checkout -b [branch name] -> creates new branch and switches to it <br />
 checkout -> used to switch from one branch to another <br />
 branch -d -> deletes the feature branch <br />
 merge -> merges the specified branch's history into the current branch <br />
+
+Topics covered - creating github repo using website, clone to local machine, add and commit changes, check the status, push to origin; create local repo, push into github, create branches, check diff and merge, push into github
