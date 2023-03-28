@@ -16,7 +16,7 @@ status -> check to see which files are being tracked or need to be commited <br 
 init -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase <br />
 diff -> shows the file differences which are not yet stagged <br /> 
 branch -> lists all the local branches in the current repository <br />
-branch -b [branch name] -> creates new branch <br />
+checkout -b [branch name] -> creates new branch and switches to it <br />
 checkout -> used to switch from one branch to another <br />
 branch -d -> deletes the feature branch <br />
 merge -> merges the specified branch's history into the current branch <br />
