@@ -1,6 +1,6 @@
 # GitHub_Introduction
 
-First reposytory with only README.md file created for training purpose
+First repository with only README.md file created for training purpose
 
 # GIT Tutorial
 
