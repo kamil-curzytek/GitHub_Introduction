@@ -6,7 +6,7 @@ First reposytory with only README.md file created for training purpose
 
 https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
 
-repo -> repository
+<h1> repo -> repository
 clone -> bring a repo down from the internet (remote repository like Github) to your local machine
 add -> track your files and changes with Git
 commit -> save your changes into Git (commit -m "Changes" -m "Changes description)
